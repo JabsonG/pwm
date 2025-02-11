@@ -28,5 +28,5 @@ Este projeto implementa o controle de um servomotor utilizando o módulo PWM do 
 
 ## Vídeo demonstrativo:
 
-
+https://drive.google.com/file/d/1eqvxE_3QjpgXLYOC9KLCK1v6J8PQmUzD/view?usp=sharing
 
