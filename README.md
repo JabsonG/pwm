@@ -30,3 +30,6 @@ Este projeto implementa o controle de um servomotor utilizando o módulo PWM do 
 
 https://drive.google.com/file/d/1eqvxE_3QjpgXLYOC9KLCK1v6J8PQmUzD/view?usp=sharing
 
+## Video com utilização do LED GPIO 12 e com a placa BitDogLab:
+
+https://drive.google.com/file/d/1iBvQhEavAInjKKw7SZTtzPq6gsDxK_uW/view?usp=sharing
